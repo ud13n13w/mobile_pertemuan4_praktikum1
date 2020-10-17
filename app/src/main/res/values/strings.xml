@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjectLayoutLinear</string>
+    <string name="ini_textview">Ini TextView</string>
+    <string name="ini_button">Ini Button</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+</resources>
